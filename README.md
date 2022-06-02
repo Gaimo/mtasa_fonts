@@ -5,12 +5,13 @@
 Este resource é útil para gerenciar suas fonts, com ele você pode organizar todas dentro de um único resource evitando fazer o jogador baixar diversas vezes o mesmo arquivo, além de evitar o consumo desnecessário de memória RAM ao criar várias fontes iguais.
 
 # Como ele funciona?
-Como todas as fontes são armazenadas em um único resource, o jogador terá apenas **uma** cópia de cada fonte. 
+Como todas as fontes são armazenadas em um único resource, o jogador terá apenas **uma** cópia de cada fonte.
+
 Muitos costumam carregar a mesma fonte em diferentes resources, fazendo o jogador baixar muitas cópias do mesmo arquivo.
 
 Além de economizar espaço em disco, e ter menos arquivos para serem baixados, o resource gerencia in-game as fontes que devem ficar carregadas na memória RAM do jogador.
 
-Caso você não saiba, sempre que uma fonte é criada, um elemento do tipo fonte é criado, se você criar 10 fontes, será armazenado na memória do jogador 10 elementos iguais, para resolver esse problema, você pode usar esse resource.
+Caso você não saiba, sempre que uma fonte é criada, um elemento do tipo dx-font é criado, se você criar 10 fontes, será armazenado na memória do jogador 10 elementos iguais, para resolver esse problema, você pode usar esse resource.
 
 # Como usar?
 

@@ -2,7 +2,7 @@
 
 # PT-BR
 
-Este resource é útil para gerenciar suas fonts, com ele você pode organizar todas dentro de um único resource evitando fazer o jogador baixar diversas vezes o mesmo arquivo, além de evitar o consumo desnecessário de criar várias fontes iguais.
+Este resource é útil para gerenciar suas fonts, com ele você pode organizar todas dentro de um único resource evitando fazer o jogador baixar diversas vezes o mesmo arquivo, além de evitar o consumo desnecessário de memória RAM ao criar várias fontes iguais.
 
 # Como ele funciona?
 Como todas as fontes são armazenadas em um único resource, o jogador terá apenas **uma** cópia de cada fonte. Muitos costumam carregar a mesma fonte em diferentes resources, fazendo o jogador baixar muitas cópias do mesmo arquivo.

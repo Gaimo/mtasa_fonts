@@ -1,0 +1,10 @@
+<meta>
+    <script src="fonts.lua" type="client" cache="false"/>
+
+    <export function="requestFont" type="client" />
+    <export function="destroyFont" type="client" />
+
+    <file src="files/segoeui.ttf"/>
+    <file src="files/seguisb.ttf"/>
+
+</meta>
